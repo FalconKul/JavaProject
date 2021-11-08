@@ -1,2 +1,2 @@
-# SomeTempProject
-Some small project create by me
+# Some Java Projects
+Some Java projects
